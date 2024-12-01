@@ -1,0 +1,2 @@
+EDA可视化内容集中在visualization.ipynb
+模型和特征工程内容集中在eq_model.ipynb
